@@ -1,24 +1,11 @@
 # Quasar App (app-quasar)
 
-A Quasar Framework App
+É um sistema para fazer a listagem de todos Pokemon, usando a API [PokéAPI](https://pokeapi.co/).
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### O comando abaixo é usando para rodar a aplicação no navegador.
 ```bash
 quasar dev
 ```
 
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+### Construa suas aplicações seguindo na documentação
+See [Quasar Documentation](https://quasar.dev/).
