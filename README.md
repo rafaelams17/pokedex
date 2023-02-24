@@ -1,4 +1,4 @@
-# Quasar App (app-quasar)
+# PokeDex
 
 É um sistema para fazer a listagem de todos Pokemon, usando a API [PokéAPI](https://pokeapi.co/).
 
